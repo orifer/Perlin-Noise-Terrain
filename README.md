@@ -1,7 +1,7 @@
 # Perlin-Noise-Terrain
 An interactive 3D visualization of perlin noise made with Javascript and HTML (P5*js)
 
-**Play with it [here](https://diviik.github.io/Perlin-Noise-Terrain/).**
+**Play with it [here](https://orifer.github.io/Perlin-Noise-Terrain/).**
 
 ![](https://github.com/DIVIIK/Perlin-Noise-Terrain/blob/dev/Images/Image1.png?raw=true)
 
